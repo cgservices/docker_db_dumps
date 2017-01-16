@@ -1,0 +1,5 @@
+Place any database dump in this directory before building with:
+
+# docker build -t creativegroup/dbdumps .
+
+Make sure each dump contains an "CREATE DATABASE IF NOT EXISTS database_name;" and "USE database_name;" statement.

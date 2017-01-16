@@ -1,0 +1,25 @@
+# Ignore Docker files
+Dockerfile
+.dockerignore
+docker-compose.yml
+docker_build.sh
+docker_run.sh
+
+# Cache
+cache/*
+
+# NetBeans project info
+**nbproject
+
+# Ignore Apple file system files
+**.DS_Store
+
+# SVN
+**.svn
+
+# Git
+**.git
+**.gitignore
+
+# Zip file
+**.zip

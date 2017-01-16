@@ -1,0 +1,9 @@
+/.idea
+/.buildpath
+/.project
+/.settings
+/.zfproject.xml
+/nbproject
+.DS_Store
+dbs/*
+!dbs/.keep
